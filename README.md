@@ -1,1 +1,3 @@
-# PredScr64
+# Predicting runs, fours and sixes a batsman would score
+
+The aim of this project is to predict the number of runs, fours and sixes a batsman would score against the given team, in different innings, in different playing conditions and in different formats. Cricinfo statsguru is scrapped for the player's data. Data cleaning is carried out to prepare the dataset for predictive analysis. To understand the different aspects of these batting datasets, exploratory data analsis is performed on Sachin's ODI and Test dataset to get more insights on the dataset. Linear Regression is applied on the dataset by taking balls faced as an independent variable and 4s, 6s and runs scored as dependent variable.
